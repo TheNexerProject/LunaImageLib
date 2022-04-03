@@ -10,8 +10,7 @@
 
 LunaImageLib is a [Rust](https://www.rust-lang.org/) library, that allows you to easily create various types of Luna Linux system image, such as ISO image or instalation media.
 
-## Table of Contents  
-- [Screenshots](#screenshots)
+## Table of Contents
 - [Usage](#usage)
 - - [Examples](#examples)
 - [Wiki](#wiki)
@@ -20,11 +19,6 @@ LunaImageLib is a [Rust](https://www.rust-lang.org/) library, that allows you to
 - [License](#license)
 
 ---
-
-### Screenshots
-There are no screeshots yet for the reason described in the [usage section](#usage).
-
-
 
 ### Usage
 LunaImageLib is at a very early stage of development. Currently, there is no option to use it for the purpose for which it is intended.
